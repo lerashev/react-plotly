@@ -1,5 +1,3 @@
-![photo_2022-03-20_19-41-55](https://user-images.githubusercontent.com/86261719/159193102-054e822e-a9fd-4501-9d49-57f65009a942.jpg)
-
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/86261719/159193102-054e822e-a9fd-4501-9d49-57f65009a942.jpg">
 
 # The react-plotly app
