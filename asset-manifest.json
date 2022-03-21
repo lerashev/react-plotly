@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lerashev.github.io/react-plotly/static/css/main.f6a11816.css",
+    "main.js": "/lerashev.github.io/react-plotly/static/js/main.430fe6eb.js",
+    "static/js/787.886ac8c2.chunk.js": "/lerashev.github.io/react-plotly/static/js/787.886ac8c2.chunk.js",
+    "index.html": "/lerashev.github.io/react-plotly/index.html",
+    "main.f6a11816.css.map": "/lerashev.github.io/react-plotly/static/css/main.f6a11816.css.map",
+    "main.430fe6eb.js.map": "/lerashev.github.io/react-plotly/static/js/main.430fe6eb.js.map",
+    "787.886ac8c2.chunk.js.map": "/lerashev.github.io/react-plotly/static/js/787.886ac8c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6a11816.css",
+    "static/js/main.430fe6eb.js"
+  ]
+}
